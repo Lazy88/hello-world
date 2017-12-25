@@ -2,5 +2,5 @@
 
 Hello everybody!
 
-Lazy here. Totaly new in this coding thing. Just starter learnig in FreeCodeCamp.
+Lazy here. Totally new in this coding thing. Just started learning in FreeCodeCamp.
 Wish me luck:)
